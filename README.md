@@ -12,7 +12,9 @@ This repository contains my solutions to problems from Project Euler, implemente
 - Strengthen foundations in mathematics and programming
 - Maintain a public record of consistent learning
 
-### Note
-These solutions are shared for learning purposes only. It is recommended to attempt the problems independently before viewing the code.
+### Copyright
 
-Solutions are shared strictly for learning purposes. Try solving problems independently before referring to the code.
+© 2025 KD Parker. All rights reserved.
+
+The code and content in this repository are the intellectual property of the author. Unauthorized copying, redistribution, or use of this material, in whole or in part, without explicit permission is strictly prohibited.
+

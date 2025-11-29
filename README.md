@@ -14,7 +14,7 @@ This repository contains my solutions to problems from Project Euler, implemente
 
 ### Copyright
 
-© 2025 KD Parker. All rights reserved.
+© 2025 BareBones. All rights reserved.
 
 The code and content in this repository are the intellectual property of the author. Unauthorized copying, redistribution, or use of this material, in whole or in part, without explicit permission is strictly prohibited.
 
